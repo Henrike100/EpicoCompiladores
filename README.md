@@ -10,9 +10,9 @@ O interpretador do Python foi modificado para possuir o operador **pipe** implem
 ## Modificações
 
 Os seguintes arquivos sofreram alterações:
-- Grammar
-- Tokens
-- ast.c
+- [Grammar](https://github.com/Henrike100/EpicoCompiladores/blob/master/Grammar/Grammar)
+- [Tokens](https://github.com/Henrike100/EpicoCompiladores/blob/master/Grammar/Tokens)
+- [ast.c](https://github.com/Henrike100/EpicoCompiladores/blob/master/Python/ast.c)
 
 As mudanças estão entre os seguintes comentários nos arquivos Grammar e ast.c:
 ```bash
